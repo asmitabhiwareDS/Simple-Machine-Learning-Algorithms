@@ -1,2 +1,2 @@
-# Simple-Machine-Learning-Algorithms
-All the simple machine learning algos
+# Machine-Learning-Algorithms
+All the Machine learning algorithms with their examples.
