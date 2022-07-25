@@ -1,2 +1,0 @@
-# NaiveBayes
-Naïve Bayes
